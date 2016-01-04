@@ -1,0 +1,394 @@
+@font-face {
+	font-family: MyHelvetica;
+	src: url(../../font/helvetica-neue-thin.ttf);
+}
+
+@font-face {
+	font-family: "Lobster 1.4";
+	src: url(../../font/Lobster-1.4.otf) ;
+}
+
+
+
+body {
+	font: 100%  MyHelvetica;
+	min-width: 320px;
+	height: 100%;
+	margin: auto;
+	background-color:#3D334E;
+	}
+	
+.conteneur-superieur{
+	display: block;
+	min-width: 320px;
+	height: auto;
+	/*background-color: #fe5e5e;*/
+	/*overflow: hidden;*/
+
+}
+
+.conteneur{
+	min-width:320px;
+	height: auto;
+	display: block;
+	background: url(../../images-design/fond-corps.png);
+	position: relative;
+	border-radius: 4px;
+	padding-bottom: 10px;
+	
+}
+
+.conteneur-large{
+	min-width:320px;
+	height: auto;
+	display: block;
+	background: url(../../images-design/fond-corps.png);
+	position: relative;
+	/*min-height: 850px;*/
+	border-radius: 4px;
+	margin-bottom: 20px;
+}
+
+h1{
+	font: 24px/35px "Lobster 1.4";
+	color: #98d0d1;
+	text-align: center;
+	/*border-bottom: 1px solid #ffffff;*/
+	text-shadow: 3px 0 3px #2d2d2d;
+	white-space: normal;
+	margin-top: 0px;
+	padding-top: 20px;
+}
+
+h2{
+	font: 20px "Lobster 1.4";
+	color: #ffffff;
+	margin-top: 0px;
+	padding-top: 20px;
+}
+
+h3{
+	font: 18px "Lobster 1.4";
+	color: #ffffff;
+}
+
+h4{
+	font: normal 22px "Lobster 1.4";
+	color: #98d0d1;
+	
+	
+	/*border-bottom: 1px solid #ffffff;*/
+	text-shadow: 3px 0 3px #2d2d2d;
+	text-align: left;
+	
+}
+.text-bloc1{
+	display: block;
+	font: 15px Arial, Helvetica, Geneva, sans-serif;
+	width: 100%;
+	height: auto;
+	/*background-color: #3fad50;*/
+	position: relative;
+	clear: right;
+}
+
+
+/*.menu-trait { 
+	background-color: #d66666;
+}*/
+
+
+.videogallery{
+	padding-bottom: 4px;
+}
+
+.table-center{
+	display: flex;
+	flex-flow: row wrap;
+	max-width: 700px;
+	margin: auto;
+}
+
+p{
+	text-align: justify;
+	color: #ffffff;
+}
+
+ul[type=center]{
+	display: table;
+	margin: 0 auto;
+	padding-left: 0px;
+}
+
+.text-bloc2{
+	display: block;
+	width: 70%;
+	height: auto;
+	float: left;
+	font: 15px Arial, Helvetica, Geneva, sans-serif;
+	position: relative;
+	/*background-color: #eeec9e;*/
+}
+
+.text-bloc2 p {
+	padding-left: 30px;
+	margin-right: 30px;
+	
+}
+
+.text-bloc1 h2{
+	padding-left: 30px;
+	padding-right: 30px;
+	color: #ffffff;
+}
+
+.text-bloc1 h3{
+	padding-left: 30px;
+	padding-right: 30px;
+	color: #ffffff;
+}
+
+.titre-etape h3{
+	padding-left: 30px;
+	padding-right: 30px;
+	color: #ffffff;
+}
+
+.text-bloc2 h2{
+	padding-left: 30px;
+	padding-right: 30px;
+	color: #ffffff;
+}
+
+.text-bloc1 p {
+	padding-left: 30px;
+	padding-right: 30px;
+	color: #ffffff;
+}
+
+.l-ecole-theatrale-russe{ /*image */
+	display: block;
+	float:right;
+	position: relative;
+	width: 30%;
+	height: auto;
+	/*background-color: #9c95ef;*/
+}
+
+.l-ecole-theatrale-russe img{
+	margin-left: 20px;
+	margin-top: 65px;
+}
+
+
+
+
+.liens{
+	width: auto;
+	display: block;
+	height: auto;
+	/*background-color: #f16b6b;*/
+	margin-left: 30px;
+	margin-right: 30px;
+	padding-top: 15px;
+	border-top: 1px dashed #ffffff;
+	font-style: italic;
+	font-family: MyHelvetica;
+	padding-bottom: 15px;
+	
+}
+
+a{
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.bloc-images{
+	display: block;
+	width: 100%;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.bloc-images ul{
+	list-style: none;
+}
+
+.bloc-images li{
+	float: left;
+	margin: 10px;
+}
+
+.bloc-images img{
+	display: block;
+	/*padding: 2px;*/
+	background: #f5f5f5;
+	border: 1px solid #fff;
+}
+
+.bloc-images img:hover{
+	border: 1px solid #615e71;
+}
+
+#paragraphe-image{
+	display: block;
+	width: 100%;
+	height: auto;
+	/*background-color: #77c8cb;*/
+}
+
+#image-emploi-du-temps{
+	margin-left: 15px;
+}
+
+#images-certificat{
+	margin-left: 150px;
+}
+
+th{
+	border: 1px solid #ffffff;
+}
+
+.texte-stage{
+	display: block;
+	position: relative;
+	width: 95%;
+	height: auto;
+	/*background-color: #d7aaaa;*/
+	margin: auto;
+}
+
+.texte-stage p{
+	margin-bottom: -10px;
+	font-size: 14px;
+}
+
+.list-doc2{
+	list-style-type:circle;
+	color: #ffffff;
+	margin-left: 15px ;
+	margin-right: 50px;
+}
+
+.item-lm{
+	list-style-type:square;
+	color: #ffffff;
+	margin-left: 15px ;	
+}
+.item-list-lm{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.bloc-logo-partenaires{
+	display: inline-block;
+	min-width: 320px;
+	height: auto;
+	margin: auto;
+	/*background-color: #e69797;*/
+}
+
+.conteneur-logo-partenaires{
+	display: table;
+	height: 100px;
+	width: 200px;
+	position: relative;
+	/*background-color: #b8d7ae;*/
+	margin: auto;
+	padding: 5px;
+}
+
+.conteneur-logo-partenaires p{
+	text-align: center;
+	margin: auto;
+	/*background-color: #6bb7e2;*/
+	font: 15px MyHelvetica;
+	color: #ffffff;
+	padding-top: 10px;
+}
+
+
+
+img.imagelogo{ /*centrer image*/
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.adresse-dlp{
+	display: table;
+	border: 1px dashed #ffffff;
+	padding-left: 20px;
+	width: 260px;
+	margin: auto;
+	line-height: 3px;
+	/*background-color: #d7e5c6;*/
+	position: relative;
+	
+}
+
+.adresse-dlp h3{
+	margin-left: 0px;
+}
+
+.adresse-dlp p{
+	font-size: 14px;
+}
+
+.adresse-se-rendre{
+	display: table;
+	position: relative;
+	width: 90%;
+	max-width: 600px;
+	margin: auto;
+	/*background-color: #e06868;*/
+}
+
+.adresse-se-rendre p1{
+	font: 15px Arial, Helvetica, Geneva, sans-serif;
+	color: #ffffff;
+}
+
+.adresse-se-rendre p{
+	font-size: 14px;
+	margin-top: 0px;
+}
+
+.plan2{
+	display: table;
+	/*background-color: #8492f3;*/
+	position: relative;
+}
+
+a[type=temoignage]{
+	color: #615e71;
+}
+
+#table-tarif{
+	/*background-color: #f8a3df;*/
+	margin: auto;
+	border-style: solid;
+	border-color: #615e71;
+	width: 90%;
+	margin-bottom: 40px;
+}
+
+#table-tarif td, th {
+	border: thin solid #ffffff;
+	width: 20%;
+	color: #615e71;
+	
+}
+
+ #table-tarif tr{
+	text-align: center;
+	line-height: 25px;
+	background-color: #ffffff;
+}
+
+
+
+
+

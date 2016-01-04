@@ -1,0 +1,92 @@
+App.progressCountTotal = 11;
+App.progressCountCurrent = 0;
+fw.dismissBatchDialogWhenDone = true;
+doc = fw.openDocument('file:///G|/Mes images/Association/Masterclass_2/photos masterclasse/pour_le_web/Yves_Peyrard.jpg');
+App.progressCountCurrent = 1;
+App.batchStatusString = 'Yves_Peyrard.jpg';
+if (!Files.exists('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/images/Yves_Peyrard_jpg.jpg') || confirm('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/images/Yves_Peyrard_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/images/Yves_Peyrard_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"50", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/thumbnails/Yves_Peyrard_jpg.jpg') || confirm('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/thumbnails/Yves_Peyrard_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/thumbnails/Yves_Peyrard_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///G|/Mes images/Association/Masterclass_2/photos masterclasse/pour_le_web/Celia_Grincourt.jpg');
+App.progressCountCurrent = 2;
+App.batchStatusString = 'Celia_Grincourt.jpg';
+if (!Files.exists('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/images/Celia_Grincourt_jpg.jpg') || confirm('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/images/Celia_Grincourt_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/images/Celia_Grincourt_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"50", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/thumbnails/Celia_Grincourt_jpg.jpg') || confirm('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/thumbnails/Celia_Grincourt_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/thumbnails/Celia_Grincourt_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///G|/Mes images/Association/Masterclass_2/photos masterclasse/pour_le_web/Charlotte_Fossard.jpg');
+App.progressCountCurrent = 3;
+App.batchStatusString = 'Charlotte_Fossard.jpg';
+if (!Files.exists('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/images/Charlotte_Fossard_jpg.jpg') || confirm('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/images/Charlotte_Fossard_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/images/Charlotte_Fossard_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"50", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/thumbnails/Charlotte_Fossard_jpg.jpg') || confirm('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/thumbnails/Charlotte_Fossard_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/thumbnails/Charlotte_Fossard_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///G|/Mes images/Association/Masterclass_2/photos masterclasse/pour_le_web/Emilie_Lecluse.jpg');
+App.progressCountCurrent = 4;
+App.batchStatusString = 'Emilie_Lecluse.jpg';
+if (!Files.exists('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/images/Emilie_Lecluse_jpg.jpg') || confirm('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/images/Emilie_Lecluse_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/images/Emilie_Lecluse_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"50", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/thumbnails/Emilie_Lecluse_jpg.jpg') || confirm('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/thumbnails/Emilie_Lecluse_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/thumbnails/Emilie_Lecluse_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///G|/Mes images/Association/Masterclass_2/photos masterclasse/pour_le_web/Caroline_Nogues.jpg');
+App.progressCountCurrent = 5;
+App.batchStatusString = 'Caroline_Nogues.jpg';
+if (!Files.exists('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/images/Caroline_Nogues_jpg.jpg') || confirm('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/images/Caroline_Nogues_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/images/Caroline_Nogues_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"50", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/thumbnails/Caroline_Nogues_jpg.jpg') || confirm('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/thumbnails/Caroline_Nogues_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/thumbnails/Caroline_Nogues_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///G|/Mes images/Association/Masterclass_2/photos masterclasse/pour_le_web/Maina_Madec.jpg');
+App.progressCountCurrent = 6;
+App.batchStatusString = 'Maina_Madec.jpg';
+if (!Files.exists('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/images/Maina_Madec_jpg.jpg') || confirm('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/images/Maina_Madec_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/images/Maina_Madec_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"50", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/thumbnails/Maina_Madec_jpg.jpg') || confirm('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/thumbnails/Maina_Madec_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/thumbnails/Maina_Madec_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///G|/Mes images/Association/Masterclass_2/photos masterclasse/pour_le_web/Marion_Aubin.jpg');
+App.progressCountCurrent = 7;
+App.batchStatusString = 'Marion_Aubin.jpg';
+if (!Files.exists('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/images/Marion_Aubin_jpg.jpg') || confirm('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/images/Marion_Aubin_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/images/Marion_Aubin_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"50", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/thumbnails/Marion_Aubin_jpg.jpg') || confirm('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/thumbnails/Marion_Aubin_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/thumbnails/Marion_Aubin_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///G|/Mes images/Association/Masterclass_2/photos masterclasse/pour_le_web/Roland_Bonnin.jpg');
+App.progressCountCurrent = 8;
+App.batchStatusString = 'Roland_Bonnin.jpg';
+if (!Files.exists('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/images/Roland_Bonnin_jpg.jpg') || confirm('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/images/Roland_Bonnin_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/images/Roland_Bonnin_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"50", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/thumbnails/Roland_Bonnin_jpg.jpg') || confirm('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/thumbnails/Roland_Bonnin_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/thumbnails/Roland_Bonnin_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///G|/Mes images/Association/Masterclass_2/photos masterclasse/pour_le_web/Romain_Barreau.jpg');
+App.progressCountCurrent = 9;
+App.batchStatusString = 'Romain_Barreau.jpg';
+if (!Files.exists('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/images/Romain_Barreau_jpg.jpg') || confirm('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/images/Romain_Barreau_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/images/Romain_Barreau_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"50", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/thumbnails/Romain_Barreau_jpg.jpg') || confirm('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/thumbnails/Romain_Barreau_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/thumbnails/Romain_Barreau_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///G|/Mes images/Association/Masterclass_2/photos masterclasse/pour_le_web/Samuel_Seynave.jpg');
+App.progressCountCurrent = 10;
+App.batchStatusString = 'Samuel_Seynave.jpg';
+if (!Files.exists('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/images/Samuel_Seynave_jpg.jpg') || confirm('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/images/Samuel_Seynave_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/images/Samuel_Seynave_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"50", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/thumbnails/Samuel_Seynave_jpg.jpg') || confirm('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/thumbnails/Samuel_Seynave_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/thumbnails/Samuel_Seynave_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///G|/Mes images/Association/Masterclass_2/photos masterclasse/pour_le_web/Valentine_Bureau.jpg');
+App.progressCountCurrent = 11;
+App.batchStatusString = 'Valentine_Bureau.jpg';
+if (!Files.exists('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/images/Valentine_Bureau_jpg.jpg') || confirm('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/images/Valentine_Bureau_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/images/Valentine_Bureau_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"50", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/thumbnails/Valentine_Bureau_jpg.jpg') || confirm('file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/thumbnails/Valentine_Bureau_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///G|/site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass2/thumbnails/Valentine_Bureau_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+'done';

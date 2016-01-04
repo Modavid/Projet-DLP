@@ -1,0 +1,174 @@
+@font-face {
+	font-family: MyHelvetica;
+	src: url(../../font/helvetica-neue-thin.ttf);
+}
+
+@font-face {
+	font-family: "Lobster 1.4";
+	src: url(../../font/Lobster-1.4.otf) ;
+}
+
+
+.conteneur-actualite{
+	display: block;
+	min-width: 320px;
+	height: 210px;
+	/*background-color: #d49191;*/
+	margin-top: 15px;
+}
+
+#image-actu{
+	display: block;
+	min-width: 320px;
+	height: 210px;
+	position: relative;
+	float: left;
+	/*background-color: #c6cc7e;*/
+}
+
+
+
+#titre-actu{
+	display: block;
+	min-width:320px;
+	position: relative;
+	background-color: rgba(255, 255, 255, 0.1);
+	border-top-right-radius: 4px;
+	float: right;
+	/*border-bottom: 1px solid #000000;*/
+}
+
+#titre-actu p{
+	text-align: center;
+	font: 20px "Lobster 1.4";
+	margin-top: 2px;
+	color: #98D0D1;
+	text-shadow: 0px 1px 3px #000000;
+}
+
+#text-actu{
+	display: block;
+	min-width: 320px;
+	height: 180px;
+	background-color: rgba(255, 255, 255, 0.1);
+	border-bottom-right-radius: 4px;
+	position: relative;
+	clear: right;
+	float: right;
+	overflow: hidden;
+	
+}
+
+#text-actu p{
+	font: 11.5px Arial, Helvetica, Geneva, sans-serif;
+	color: #FFFFFF;
+	text-shadow: 0px 1px 3px #000000;
+	text-align: justify;
+	margin: 13px;
+}
+
+#conteneur-actu-complet{
+	display: block;
+	min-width: 320px;
+	margin-left:auto;
+	margin-right: auto;
+}
+
+#image-actu-complet{
+	display: block;
+	min-width: 320px;
+	height: 173px;
+	position: relative;
+	float: left;
+	/*background-color: #f6b0b0;*/
+}
+
+#titre-actu-complet{
+	display: block;
+	min-width:320px;
+	height: 30px;
+	position: relative;
+	background-color: #ffffff;
+	float: left;
+}
+
+#titre-actu-complet p{
+	text-align: center;
+	font: 20px "Lobster 1.4";
+	margin-top: 2px;
+	color: #615e71;
+	border-bottom: 1px solid #615e71;
+}
+
+#text-actu-complet{
+	display: block;
+	mni-width: 320px;
+	height: 143px;
+	background-color: #ffffff;
+	position: relative;
+	clear: right;
+	float: left;
+	overflow: hidden;
+}
+
+#text-actu-complet p, #text-commentaire-complet p{
+	font: 13px Arial, Helvetica, Geneva, sans-serif;
+	color: #000000;
+	text-align: justify;
+	margin-left: 13px;
+	margin-right: 13px;
+}
+
+#conteneur-actu-complet2{
+	display: block;
+	float:left;
+	border-radius: 9px;
+	min-width: 320px;
+	margin-bottom: 20px;
+	margin-left:20px;
+	margin-right: auto;
+}
+
+#conteneur-image-profil{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#image-profil-complet{
+	display: block;
+	position: relative;
+	float: left;
+}
+
+#text-commentaire-complet{
+	display: block;
+	border-bottom-left-radius: 9px;
+	border-bottom-right-radius: 9px;
+	min-width: 320px;
+	background-color: #ffffff;
+	position: relative;
+	clear: right;
+	float: left;
+	overflow: hidden;
+	margin-bottom: 20px
+}
+
+#titre-actu-complet2{
+	display: block;
+	border-top-left-radius: 9px;
+	border-top-right-radius: 9px;
+	min-width:320px;
+	position: relative;
+	background-color: #ffffff;
+	float: left;
+}
+
+#titre-actu-complet2 p{
+	text-align: center;
+	font: 20px "Lobster 1.4";
+	margin: auto;
+	color: #615e71;
+	border-bottom: 1px solid #615e71;
+}
+

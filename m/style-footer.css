@@ -1,0 +1,170 @@
+@font-face {
+	font-family: MyHelvetica;
+	src: url(../../font/helvetica-neue-thin.ttf);
+}
+
+@font-face {
+	font-family: "Lobster 1.4";
+	src: url(../../font/Lobster-1.4.otf) ;
+}
+
+.block-footeur{
+	display: block;
+	max-width: 320px;
+	text-align: center;
+	margin: auto;
+	padding-top: 10px;
+}
+
+#conteneur-footer{
+	display: inline-block;
+	min-width: 320px;
+	height: auto;
+	margin: 0 auto;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	/*position: relative;
+	background-color: #c59393;
+	clear: right;*/
+	
+
+}
+
+#grand-bandeau{
+	z-index: 1;
+	display: block;
+	min-width: 320px;
+	height: 70px;
+	margin: auto;
+	position: relative;
+	margin-top: -15px;
+	margin-bottom: -30px;
+	background: url(../../images-design/bandeau-10ans.png);
+	
+}
+
+#menu-footer{
+	padding-top: 30px;
+	display: inline-block;
+	min-width: 320px;
+	margin: auto;
+	background-image: url(../../images-design/bandeau.png);
+	font: 100% Arial;
+	position: relative;
+	/*background-color: #3de466;*/
+	border-radius: 4px;
+}
+
+
+
+#contact{
+	display: block;
+	height: auto;
+	min-width: 320px;
+	/*background-color: #4fdbcc;*/
+	position: relative;
+	float: left;
+	
+}
+#plan{
+	display: block;
+	height: auto;
+	min-width: 320px;
+	/*background-color: #8492f3;*/
+	position: relative;
+	float: left;
+}
+
+#carte-google{
+	display: block;
+	min-width: 320px;
+	height: 130px;
+	/*background-color: #bde9d1;*/
+	margin: auto;
+	margin-top: 10px;
+}
+#list-menu{
+	display: block;
+	height: auto;
+	min-width: 320px;
+	/*background-color: #d83030;*/
+	position: relative;
+	float: left;
+}
+#partenaires{
+	display: block;
+	height: auto;
+	min-width: 320px;
+	/*background-color: #fcfa5f;*/
+	position: relative;
+	float: left;
+}
+
+.titre{
+	display: block;
+	width: 100%;
+	height: 30px;
+	/*background-color: #f222c5;*/
+	color: #ffffff;
+	font-family: HelveticaNeue;
+	text-transform: uppercase;
+	text-align: center;
+	line-height: 30px;
+}
+
+#pin-geolocalisation{
+	display: block;
+	width: 30px;
+	height: 30px;
+	position: absolute;
+	margin-top: 5px;
+	/*background: url(../images-design/pin-geolocalisation.png);*/
+}
+
+#contact p{
+	margin-left: 33px;
+	color: #ffffff;
+	font-family: HelveticaNeue;
+}
+
+
+#list-menu ul li {
+	text-decoration: none;
+	color: #ffffff;
+	list-style: none;
+	margin-top: 20px;
+	font-family: HelveticaNeue;
+	
+}
+
+a{
+	list-style: none;
+	text-decoration: none;
+	color: #ffffff;
+}
+
+#ligne-mention-legale{
+	display: block;
+	min-width: 320px;
+	height: 15px;
+	/*background-color: #e11111;*/
+	position: relative;
+	float: left;
+	
+}
+
+#ligne-mention-legale p{
+	font: 10px HelveticaNeue, Arial, Helvetica, Geneva, sans-serif;
+	text-align: center;
+	margin-top: 0px;
+	color: #000000;
+}
+
+#ligne-mention-legale a{
+	text-decoration: none;
+	color: #000000;
+}
+
+
+
+

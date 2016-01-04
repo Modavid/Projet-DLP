@@ -1,0 +1,180 @@
+@font-face {
+	font-family: MyHelvetica;
+	src: url(../../font/helvetica-neue-thin.ttf);
+}
+
+@font-face {
+	font-family: "Lobster 1.4";
+	src: url(../../font/Lobster-1.4.otf) ;
+}
+
+#bloc-principal{
+
+	min-width:320px;
+	height: auto;
+	display: inline-block;
+	background-image: url(../../images-design/fond-corps.png);
+	border-radius: 4px;
+}
+
+.ruban{
+	width:110px;
+	display: inline-table;
+}
+
+#caroussel{
+	padding-top: 20px;
+	height: auto;
+	margin: auto;
+	width: 95%;
+	display: block;
+	position: relative;
+	
+}
+
+#petit-bandeau1{
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background: url(../../images-design/ruban1.png);
+	margin-left: 20px;
+	position: relative;
+	margin-top: -10px;
+	
+}
+
+#petit-bandeau2{
+	display: inline-block;
+	min-width: 40px;
+	height: 40px;
+	background: url(../../images-design/ruban2.png);
+	margin-left: 20px;
+	position: relative;
+	
+}
+
+#reseaux-soc{
+	display: inline-block;
+	height: 30px;
+	position: relative;
+	
+	/*background-color: #14ff37;*/
+	margin-top: 10px;
+}
+
+#bloc-gauche{
+	display: block;
+	min-width: 320px;
+	/*background-color: #fb35e2;*/
+	position: relative;
+}
+
+#presentation{
+	display: block;
+	min-width: 320px;
+	/*background-color: #2f04ff;*/
+}
+
+
+
+#bloc-milieu{
+	display: inline-block;
+	/*background-color: #0e7325;*/
+	min-width: 320px;
+	height: auto;
+	position: absolute;
+	margin-top: 50px;
+	margin-left: 10px;
+}
+
+#affichage-facebook{
+	display: block;
+	max-width: 450px;
+	margin: auto;
+	position: relative;
+	margin-top: 10px;
+}
+
+.image-reseaux-soc{
+	display: inline-table;
+}
+
+#image-reseaux-soc1{
+	display: block;
+	min-width: 320px;
+	height: 30px;
+	position: relative;
+	background-color: #888888;
+}
+
+h1{
+	font: 20px "Lobster 1.4";
+	color: #ffffff;
+	margin: 10px;
+}
+
+#text-presentation{
+	color: #ffffff;
+	font: 15px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	padding-right: 20px;
+	padding-left: 20px;
+	text-align: center;
+}
+
+.photo-bloc-milieu{
+	display: table;
+	margin: auto;
+	position: relative;
+	min-width: 304px;
+}
+.image-mini-barre{
+	display:block;
+	width: 250px;
+	position: relative;
+	border-radius: 9px;
+	margin: auto;
+	/*background-color: #44bbc6;*/
+}
+
+#photo-presse{
+	background-color: #f7fe0d;
+	display: block;
+	min-width: 320px;
+	height: 120;
+	position: relative;
+	clear: right;
+}
+
+#list-menu ul li {
+	text-decoration: none;
+	color: #ffffff;
+	list-style: none;
+	margin-left: -20px;
+	margin-top: 20px;
+	font-family: Helvetica Neue 20px;
+	
+}
+
+.titre-mini-barre{
+	display: block;
+	height: 16px;
+	width: 100px;
+	margin: auto;
+	border-radius: 9px;
+	position: relative;
+	margin-bottom: 20px;
+	background-color: white;
+}
+
+.titre-mini-barre p{
+	text-align: center;
+	color: #000000;
+	font-size: 10px;
+	margin-top: 1px;
+}
+
+.text-content-mini{
+	
+}
+
+

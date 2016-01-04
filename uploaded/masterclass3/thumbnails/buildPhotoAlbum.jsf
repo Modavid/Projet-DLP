@@ -1,0 +1,116 @@
+App.progressCountTotal = 14;
+App.progressCountCurrent = 0;
+fw.dismissBatchDialogWhenDone = true;
+doc = fw.openDocument('file://///Mamour/Stages/010_Stage_2006/Masterclass/photos_masteriens_06/eux/Alexandra_Borkowski.jpg');
+App.progressCountCurrent = 1;
+App.batchStatusString = 'Alexandra_Borkowski.jpg';
+if (!Files.exists('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Alexandra_Borkowski_jpg.jpg') || confirm('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Alexandra_Borkowski_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Alexandra_Borkowski_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"80", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Alexandra_Borkowski_jpg.jpg') || confirm('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Alexandra_Borkowski_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Alexandra_Borkowski_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file://///Mamour/Stages/010_Stage_2006/Masterclass/photos_masteriens_06/eux/Alexandre_Ducolombier.jpg');
+App.progressCountCurrent = 2;
+App.batchStatusString = 'Alexandre_Ducolombier.jpg';
+if (!Files.exists('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Alexandre_Ducolombier_jpg.jpg') || confirm('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Alexandre_Ducolombier_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Alexandre_Ducolombier_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"80", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Alexandre_Ducolombier_jpg.jpg') || confirm('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Alexandre_Ducolombier_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Alexandre_Ducolombier_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file://///Mamour/Stages/010_Stage_2006/Masterclass/photos_masteriens_06/eux/Aurelien_Ambach_Albertini.jpg');
+App.progressCountCurrent = 3;
+App.batchStatusString = 'Aurelien_Ambach_Albertini.jpg';
+if (!Files.exists('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Aurelien_Ambach_Albertini_jpg.jpg') || confirm('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Aurelien_Ambach_Albertini_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Aurelien_Ambach_Albertini_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"80", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Aurelien_Ambach_Albertini_jpg.jpg') || confirm('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Aurelien_Ambach_Albertini_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Aurelien_Ambach_Albertini_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file://///Mamour/Stages/010_Stage_2006/Masterclass/photos_masteriens_06/eux/Elsa_Ritter.jpg');
+App.progressCountCurrent = 4;
+App.batchStatusString = 'Elsa_Ritter.jpg';
+if (!Files.exists('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Elsa_Ritter_jpg.jpg') || confirm('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Elsa_Ritter_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Elsa_Ritter_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"80", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Elsa_Ritter_jpg.jpg') || confirm('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Elsa_Ritter_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Elsa_Ritter_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file://///Mamour/Stages/010_Stage_2006/Masterclass/photos_masteriens_06/eux/Emile_Feltesse.jpg');
+App.progressCountCurrent = 5;
+App.batchStatusString = 'Emile_Feltesse.jpg';
+if (!Files.exists('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Emile_Feltesse_jpg.jpg') || confirm('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Emile_Feltesse_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Emile_Feltesse_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"80", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Emile_Feltesse_jpg.jpg') || confirm('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Emile_Feltesse_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Emile_Feltesse_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file://///Mamour/Stages/010_Stage_2006/Masterclass/photos_masteriens_06/eux/Johanna_Halimi.jpg');
+App.progressCountCurrent = 6;
+App.batchStatusString = 'Johanna_Halimi.jpg';
+if (!Files.exists('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Johanna_Halimi_jpg.jpg') || confirm('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Johanna_Halimi_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Johanna_Halimi_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"80", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Johanna_Halimi_jpg.jpg') || confirm('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Johanna_Halimi_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Johanna_Halimi_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file://///Mamour/Stages/010_Stage_2006/Masterclass/photos_masteriens_06/eux/Paul_Etong.jpg');
+App.progressCountCurrent = 7;
+App.batchStatusString = 'Paul_Etong.jpg';
+if (!Files.exists('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Paul_Etong_jpg.jpg') || confirm('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Paul_Etong_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Paul_Etong_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"80", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Paul_Etong_jpg.jpg') || confirm('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Paul_Etong_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Paul_Etong_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file://///Mamour/Stages/010_Stage_2006/Masterclass/photos_masteriens_06/eux/Sabrina_Boudina.jpg');
+App.progressCountCurrent = 8;
+App.batchStatusString = 'Sabrina_Boudina.jpg';
+if (!Files.exists('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Sabrina_Boudina_jpg.jpg') || confirm('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Sabrina_Boudina_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Sabrina_Boudina_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"80", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Sabrina_Boudina_jpg.jpg') || confirm('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Sabrina_Boudina_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Sabrina_Boudina_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file://///Mamour/Stages/010_Stage_2006/Masterclass/photos_masteriens_06/eux/Tania_Jurkiewicz.jpg');
+App.progressCountCurrent = 9;
+App.batchStatusString = 'Tania_Jurkiewicz.jpg';
+if (!Files.exists('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Tania_Jurkiewicz_jpg.jpg') || confirm('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Tania_Jurkiewicz_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Tania_Jurkiewicz_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"80", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Tania_Jurkiewicz_jpg.jpg') || confirm('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Tania_Jurkiewicz_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Tania_Jurkiewicz_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file://///Mamour/Stages/010_Stage_2006/Masterclass/photos_masteriens_06/eux/Camille_Gorde.jpg');
+App.progressCountCurrent = 10;
+App.batchStatusString = 'Camille_Gorde.jpg';
+if (!Files.exists('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Camille_Gorde_jpg.jpg') || confirm('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Camille_Gorde_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Camille_Gorde_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"80", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Camille_Gorde_jpg.jpg') || confirm('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Camille_Gorde_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Camille_Gorde_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file://///Mamour/Stages/010_Stage_2006/Masterclass/photos_masteriens_06/eux/Carlos_Rodrigo.jpg');
+App.progressCountCurrent = 11;
+App.batchStatusString = 'Carlos_Rodrigo.jpg';
+if (!Files.exists('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Carlos_Rodrigo_jpg.jpg') || confirm('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Carlos_Rodrigo_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Carlos_Rodrigo_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"80", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Carlos_Rodrigo_jpg.jpg') || confirm('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Carlos_Rodrigo_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Carlos_Rodrigo_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file://///Mamour/Stages/010_Stage_2006/Masterclass/photos_masteriens_06/eux/Irina_Gomez_Caminals.jpg');
+App.progressCountCurrent = 12;
+App.batchStatusString = 'Irina_Gomez_Caminals.jpg';
+if (!Files.exists('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Irina_Gomez_Caminals_jpg.jpg') || confirm('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Irina_Gomez_Caminals_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Irina_Gomez_Caminals_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"80", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Irina_Gomez_Caminals_jpg.jpg') || confirm('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Irina_Gomez_Caminals_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Irina_Gomez_Caminals_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file://///Mamour/Stages/010_Stage_2006/Masterclass/photos_masteriens_06/eux/Carole_Schafroth.jpg');
+App.progressCountCurrent = 13;
+App.batchStatusString = 'Carole_Schafroth.jpg';
+if (!Files.exists('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Carole_Schafroth_jpg.jpg') || confirm('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Carole_Schafroth_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Carole_Schafroth_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"80", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Carole_Schafroth_jpg.jpg') || confirm('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Carole_Schafroth_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Carole_Schafroth_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file://///Mamour/Stages/010_Stage_2006/Masterclass/photos_masteriens_06/eux/Clio_Mathis.jpg');
+App.progressCountCurrent = 14;
+App.batchStatusString = 'Clio_Mathis.jpg';
+if (!Files.exists('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Clio_Mathis_jpg.jpg') || confirm('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Clio_Mathis_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/images/Clio_Mathis_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"80", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Clio_Mathis_jpg.jpg') || confirm('file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Clio_Mathis_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Site/DLP/Fichier_Membres/stagiaires/voir_stagiaires_masterclass3/thumbnails/Clio_Mathis_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+'done';

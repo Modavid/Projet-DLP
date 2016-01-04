@@ -1,0 +1,68 @@
+App.progressCountTotal = 8;
+App.progressCountCurrent = 0;
+fw.dismissBatchDialogWhenDone = true;
+doc = fw.openDocument('file:///H|/HP/DLP/Stages/011_Stage_2007/Stage_sept_2007/photos_stagiaires_sept/Adrien_Di_Carlo.jpg');
+App.progressCountCurrent = 1;
+App.batchStatusString = 'Adrien_Di_Carlo.jpg';
+if (!Files.exists('file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/images/Adrien_Di_Carlo_jpg.jpg') || confirm('file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/images/Adrien_Di_Carlo_jpg.jpg existe déjà. Cliquez sur OK pour remplacer le fichier.')) 
+fw.exportDocumentAs(doc, 'file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/images/Adrien_Di_Carlo_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/thumbnails/Adrien_Di_Carlo_jpg.jpg') || confirm('file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/thumbnails/Adrien_Di_Carlo_jpg.jpg existe déjà. Cliquez sur OK pour remplacer le fichier.')) 
+fw.exportDocumentAs(doc, 'file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/thumbnails/Adrien_Di_Carlo_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/HP/DLP/Stages/011_Stage_2007/Stage_sept_2007/photos_stagiaires_sept/Andreane_Roy.jpg');
+App.progressCountCurrent = 2;
+App.batchStatusString = 'Andreane_Roy.jpg';
+if (!Files.exists('file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/images/Andreane_Roy_jpg.jpg') || confirm('file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/images/Andreane_Roy_jpg.jpg existe déjà. Cliquez sur OK pour remplacer le fichier.')) 
+fw.exportDocumentAs(doc, 'file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/images/Andreane_Roy_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/thumbnails/Andreane_Roy_jpg.jpg') || confirm('file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/thumbnails/Andreane_Roy_jpg.jpg existe déjà. Cliquez sur OK pour remplacer le fichier.')) 
+fw.exportDocumentAs(doc, 'file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/thumbnails/Andreane_Roy_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/HP/DLP/Stages/011_Stage_2007/Stage_sept_2007/photos_stagiaires_sept/Chhay_Ea.jpg');
+App.progressCountCurrent = 3;
+App.batchStatusString = 'Chhay_Ea.jpg';
+if (!Files.exists('file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/images/Chhay_Ea_jpg.jpg') || confirm('file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/images/Chhay_Ea_jpg.jpg existe déjà. Cliquez sur OK pour remplacer le fichier.')) 
+fw.exportDocumentAs(doc, 'file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/images/Chhay_Ea_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/thumbnails/Chhay_Ea_jpg.jpg') || confirm('file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/thumbnails/Chhay_Ea_jpg.jpg existe déjà. Cliquez sur OK pour remplacer le fichier.')) 
+fw.exportDocumentAs(doc, 'file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/thumbnails/Chhay_Ea_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/HP/DLP/Stages/011_Stage_2007/Stage_sept_2007/photos_stagiaires_sept/Gil-Sauvestre.jpg');
+App.progressCountCurrent = 4;
+App.batchStatusString = 'Gil-Sauvestre.jpg';
+if (!Files.exists('file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/images/Gil-Sauvestre_jpg.jpg') || confirm('file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/images/Gil-Sauvestre_jpg.jpg existe déjà. Cliquez sur OK pour remplacer le fichier.')) 
+fw.exportDocumentAs(doc, 'file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/images/Gil-Sauvestre_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/thumbnails/Gil-Sauvestre_jpg.jpg') || confirm('file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/thumbnails/Gil-Sauvestre_jpg.jpg existe déjà. Cliquez sur OK pour remplacer le fichier.')) 
+fw.exportDocumentAs(doc, 'file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/thumbnails/Gil-Sauvestre_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/HP/DLP/Stages/011_Stage_2007/Stage_sept_2007/photos_stagiaires_sept/Hildevert-Lorsold.jpg');
+App.progressCountCurrent = 5;
+App.batchStatusString = 'Hildevert-Lorsold.jpg';
+if (!Files.exists('file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/images/Hildevert-Lorsold_jpg.jpg') || confirm('file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/images/Hildevert-Lorsold_jpg.jpg existe déjà. Cliquez sur OK pour remplacer le fichier.')) 
+fw.exportDocumentAs(doc, 'file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/images/Hildevert-Lorsold_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/thumbnails/Hildevert-Lorsold_jpg.jpg') || confirm('file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/thumbnails/Hildevert-Lorsold_jpg.jpg existe déjà. Cliquez sur OK pour remplacer le fichier.')) 
+fw.exportDocumentAs(doc, 'file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/thumbnails/Hildevert-Lorsold_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/HP/DLP/Stages/011_Stage_2007/Stage_sept_2007/photos_stagiaires_sept/Leila-Bakhchi.jpg');
+App.progressCountCurrent = 6;
+App.batchStatusString = 'Leila-Bakhchi.jpg';
+if (!Files.exists('file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/images/Leila-Bakhchi_jpg.jpg') || confirm('file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/images/Leila-Bakhchi_jpg.jpg existe déjà. Cliquez sur OK pour remplacer le fichier.')) 
+fw.exportDocumentAs(doc, 'file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/images/Leila-Bakhchi_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/thumbnails/Leila-Bakhchi_jpg.jpg') || confirm('file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/thumbnails/Leila-Bakhchi_jpg.jpg existe déjà. Cliquez sur OK pour remplacer le fichier.')) 
+fw.exportDocumentAs(doc, 'file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/thumbnails/Leila-Bakhchi_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/HP/DLP/Stages/011_Stage_2007/Stage_sept_2007/photos_stagiaires_sept/Magali-Piatti.jpg');
+App.progressCountCurrent = 7;
+App.batchStatusString = 'Magali-Piatti.jpg';
+if (!Files.exists('file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/images/Magali-Piatti_jpg.jpg') || confirm('file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/images/Magali-Piatti_jpg.jpg existe déjà. Cliquez sur OK pour remplacer le fichier.')) 
+fw.exportDocumentAs(doc, 'file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/images/Magali-Piatti_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/thumbnails/Magali-Piatti_jpg.jpg') || confirm('file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/thumbnails/Magali-Piatti_jpg.jpg existe déjà. Cliquez sur OK pour remplacer le fichier.')) 
+fw.exportDocumentAs(doc, 'file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/thumbnails/Magali-Piatti_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/HP/DLP/Stages/011_Stage_2007/Stage_sept_2007/photos_stagiaires_sept/Marie_Combeau.jpg');
+App.progressCountCurrent = 8;
+App.batchStatusString = 'Marie_Combeau.jpg';
+if (!Files.exists('file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/images/Marie_Combeau_jpg.jpg') || confirm('file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/images/Marie_Combeau_jpg.jpg existe déjà. Cliquez sur OK pour remplacer le fichier.')) 
+fw.exportDocumentAs(doc, 'file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/images/Marie_Combeau_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"40", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/thumbnails/Marie_Combeau_jpg.jpg') || confirm('file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/thumbnails/Marie_Combeau_jpg.jpg existe déjà. Cliquez sur OK pour remplacer le fichier.')) 
+fw.exportDocumentAs(doc, 'file:///E|/sites/DLP/Fichier_Membres/stagiaires/stagiaires_2007_sept/thumbnails/Marie_Combeau_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+'done';

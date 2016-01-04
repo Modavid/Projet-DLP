@@ -1,0 +1,328 @@
+@font-face {
+	font-family: MyHelvetica;
+	src: url(../font/helvetica-neue-thin.ttf);
+}
+
+@font-face {
+	font-family: "Lobster 1.4";
+	src: url(../font/Lobster-1.4.otf) ;
+}
+
+
+body {
+	font: 100% Arial, Helvetica, Geneva, sans-serif;
+	margin: auto;
+	width: 960px;
+	height: 100%;
+		background-image: url(../images-design/Background-2.jpg);
+	background-position:bottom;
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+	background-color:black;
+	
+}
+
+.conteneur-section{
+	width:960px;
+	margin:0 auto;
+	height: auto;
+	display: inline-block;
+	/*background: url(../images-design/fond-corps.png);*/
+	position: relative;
+	/*min-height: 100%;*/
+	
+	
+}
+
+/*#conteneur-formulaire{
+	width:960px;
+	min-height: 100%;
+	margin:0 auto;
+	position: relative;
+}*/
+
+.block-formulaire{
+	display: block;
+	width: 470px;
+	height:auto;
+	background: url(../images-design/bandeau.png);
+	margin-top: 55px;
+	/*position: relative;*/
+	border-radius: 4px;
+	margin: auto;
+	overflow: hidden;
+	
+	
+}
+
+#block-inscription{
+	display: block;
+	margin: auto;
+	width: 470px;
+	height:470px;
+	margin-top: 55px;
+	position: relative;
+	background: url(../images-design/bandeau.png);
+	border-radius: 4px;
+	
+	
+}
+
+#titre{
+	color: #ffffff;
+	margin: auto;
+	width:120px;
+	height:20px;
+	/*background-color: #50a4e1;*/
+	position: relative;
+	text-align: center;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	font-family: HelveticaNeue;
+	text-transform: uppercase;
+	letter-spacing:2px;
+}
+
+#trait-gauche{
+	/*background-color: #f55cc4;*/
+	width: 175px;
+	height: 20px;
+	position: relative;
+	float: left;
+	border-color: #f80202;
+}
+
+#trait-droit{
+	width: 175px;
+	height: 20 px;
+	position: relative;
+	float: right;
+	clear: right;
+}
+
+#titre2{
+	color: #ffffff;
+	width:20px;
+	height:20px;
+	/*background-color: #50a4e1;*/
+	text-align: center;
+	font-family: HelveticaNeue;
+	letter-spacing:2px;
+	margin: auto;
+}
+
+
+#trait-gauche2{
+	width: 175px;
+	height: 20px;
+	border-color: #f80202;
+	/*background-color: #57eb5d;*/
+	float: left;
+}
+
+#trait-droit2{
+	width: 175px;
+	height: 20 px;
+	/*background-color: #57eb5d;*/
+	float: right;
+}
+
+#block-ou{
+	width: 380px;
+	/*background-color: #f83636;*/
+	margin: auto;
+}
+
+
+#block-connexion{
+	width: 470px;
+	/*background-color: #78aa93;*/
+}
+
+input[type=text]{
+	
+	width:200px;
+	height:30px;
+	
+	font-size:15px;
+	/*On décolle le curseur de la gauche du champ*/
+	padding-left:40px;
+	/*On centre le texte*/
+	display:block;
+	background-color: #ffffff;
+	border-radius: 4px;
+	color: #615e71;
+	font-family: HelveticaNeue;
+	letter-spacing: 1px;
+	border:1px solid 615e71;
+}
+
+#champs-mdp{
+	border:1px solid 615e71;
+	width:200px;
+	height:30px;
+	margin:5px 5px;
+	font-size:15px;
+	/*On décolle le curseur de la gauche du champ*/
+	padding-left:40px;
+	/*On centre le texte*/
+	display:block;
+	-webkit-text-security: circle;
+	color: #615e71;
+	background: url(../images-design/icon-password.png) -0px -0px no-repeat #ffffff;
+	
+	
+}
+
+.ligne{
+	display: block;
+	/*background-color: #2aeb19;*/
+	margin: auto;
+	margin-bottom: 20px;
+	position: relative;
+	width: 400px;
+	
+}
+
+input[type=submit]{
+	width:200px;
+	height:30px;
+	border:none;
+	border-radius: 4px;
+	display: block;
+	margin: auto;
+	font: 15px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #ffffff;
+	background-color: #615e71;
+}
+
+#boutons-fbook-google{
+	display: block;
+	margin: auto;
+	width:450px;
+	/*background-color: #e62c2c;*/
+}
+
+#bouton-fbook{
+	display: block;
+	width: 215px;
+	padding: 13px 0;
+	background-color: #37509B;
+	border-radius: 4px;
+	margin:10px auto 20px auto;
+	/*clear:right;*/
+	text-align: center;
+	position: relative;
+
+}
+
+a{
+	color: #ffffff;
+	text-decoration: none;
+}
+
+#bouton-google{
+	display: block;
+	width: 215px;
+	height: 45px;
+	background-color: #CD3B27;
+	border-radius: 4px;
+	margin-top:20px;
+	clear:right;
+	text-align: center;
+	vertical-align: text-bottom;
+	float: right;
+	clear: left;
+	position: relative;
+	margin-bottom: 20px;
+}
+
+
+#champs-login{
+	background: url(../images-design/icon-login.jpg) /*-0px -0px*/ no-repeat #ffffff;
+}
+
+
+.bouton{
+	display: block;
+	width: 215px;
+	height: 45px;
+	background-color: #615e71;
+	border-radius: 4px;
+	margin-top:20px;
+	clear:right;	
+}
+
+#boutons-inscription{
+	diplay:block;
+	height:305px ;
+	width: 215px;
+	/*background-color: #d1c8f4;*/
+	margin: auto;
+	text-align: center;
+}
+
+
+
+#champs-mdp{
+	/*margin: auto;
+	position: relative;
+	border-style: solid;
+	border-color: #ffffff;
+	border-radius: 4px;
+	display: block;
+	width: 200px;
+	height: 30px;
+	margin-bottom: 20px;*/
+}
+
+
+
+
+
+/*input[type=submit]{
+	/*Ici on attribue une image de fond au bouton de validation*!/
+	/*background:url(sprite.png) -0px -291px no-repeat;*!/
+	height:34px;
+	width:27px;
+	border:none;
+	margin:5px 5px;
+	/*Pour ne pas voir le texte du bouton*!/
+	/*font-size:0px;*!/
+}*/
+
+/*input[type=submit] /*input[type=reset]*!/ {
+	display:block;
+	margin: auto;
+	width: 200px;
+	height: 30px;
+	background-color: #dd0404;
+}*/
+
+span{
+/*background-color: #fff93d;*/
+	color: white;
+	display: block;
+	position: relative;
+	float: left;
+	width: 130px;
+	text-align: left;
+	margin-left: 20px;
+	padding-top: 5px;
+}
+
+.formulaire{
+	display: block;
+	width: 400px;
+	height: auto;
+	margin: auto;
+	margin-bottom: 10px;
+	background-color: rgba(0, 0, 0, 0);
+}
+
+
+
+
+
+
+

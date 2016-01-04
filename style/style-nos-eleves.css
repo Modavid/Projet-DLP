@@ -1,0 +1,83 @@
+#tab-search{
+margin:auto;
+}
+
+#titre2{
+	color: #ffffff;
+	/*background-color: #50a4e1;*/
+	font-family: HelveticaNeue;
+	letter-spacing:2px;
+	margin: auto;
+}
+
+
+#block-ou{
+	text-align: center;
+	/*background-color: #f83636;*/
+	margin: auto;
+}
+
+.bloc-admin{
+	background-color: rgba(255, 255, 255, 0.2);
+	border-radius: 4px;
+	margin-left: auto;
+	margin-right: 30px;
+	float: right;
+}
+
+img[type=photo]{
+	display: block;
+	border-radius: 9px;
+	min-width: 100px;
+	max-width: 200px;
+}
+
+img[type=big]{
+	display: block;
+	border-radius: 9px;
+	min-width: 100px;
+	max-width: 325px;
+}
+
+b[type=profil]{
+	margin-left: 10px;
+	margin-right:5px;
+}
+
+img[type=eleve]{
+	display: block;
+	border-radius: 9px;
+	width: 100px;
+}
+
+tr[type=eleve]{
+	display: inline-block;
+	width: 640px;
+}
+
+td[type=eleve]{
+	display: inline-block;
+	margin-left: 25px;
+	margin-right: 25px;
+	max-width: 102px;
+	max-height: 340px;
+	
+}
+
+#conteneur-eleves{
+	margin: auto;
+	width: 93%;
+	height: 780px;
+	border: 0px solid black;
+	overflow: auto;
+	float: center;
+}
+
+#nos-eleves{
+	/*float: left;*/
+}
+
+/*#conteneur-promo{
+	text-align: center;
+	display: inline-block;
+}*/

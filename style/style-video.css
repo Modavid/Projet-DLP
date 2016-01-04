@@ -1,0 +1,75 @@
+
+@font-face {
+	font-family: MyHelvetica;
+	src: url(../font/helvetica-neue-thin.ttf);
+}
+
+@font-face {
+	font-family: "Lobster 1.4";
+	src: url(../font/Lobster-1.4.otf) ;
+}
+
+body {
+	font: 100%  Arial, Helvetica, Geneva, sans-serif;
+	margin: auto;
+	width: 960px;
+	height: 100%;
+	background-image: url(../images-design/Blur-1.png);
+}
+
+#video-galerie{
+	display: table;
+	width: auto;
+	height: auto;
+	margin: auto;
+	/*background-color: #abe3b4;*/
+	
+	
+}
+
+#important{
+	display: table;
+	width: auto;
+	height: auto;
+	margin: auto;
+	/*background-color: #abe3b4;*/
+}
+	
+
+
+.case-video{
+	
+	display: block;
+	width: 300px;
+	height: 130px;
+	position: relative;
+	float: left;
+	/*background-color: #f52c2c;*/
+	margin: 5px;
+	margin-top: 30px;
+	margin-left:50px;
+	
+	
+}
+
+.play{
+	
+	margin: auto;
+	position: absolute;
+	width: auto;
+	height: auto;
+	margin-left:72.5px;
+	margin-top: 37.5px;
+	
+}
+
+/*img.play{
+	display: block;
+	
+	position: absolute;
+}*/
+
+ul{
+	margin: 0;
+	padding-left: 0;
+}
