@@ -1,0 +1,123 @@
+@font-face {
+	font-family: MyHelvetica;
+	src: url(../../font/helvetica-neue-thin.ttf);
+}
+
+@font-face {
+	font-family: "Lobster 1.4";
+	src: url(../../font/Lobster-1.4.otf) ;
+}
+
+
+.mini-fiche-equipe{
+	background-color: rgba(255, 255, 255, 0.2);
+	width: 123px;
+	height: auto;
+	overflow: hidden;
+	border-radius: 4px;
+}
+
+.description{
+	background-color: rgba(255, 255, 255, 0.2);
+	border-radius: 4px;
+	min-height: 250px;
+}
+
+.description p{
+	padding: 10px;
+	text-shadow: 2px 2px 20px black;
+}
+
+.conteneur-fiches{
+	display: block;
+	margin: auto;
+	width: 560px;
+	height: 800px;
+	/*background-color: #00d531;*/
+	
+}
+
+.conteneur-image{
+	display: block;
+	width: 95%;
+	margin: auto;
+	overflow: hidden;
+	/*background-color: #c893e9;*/
+	margin-top: 10px;
+}
+
+.nom-prenom{
+	display: table;
+	/*background-color: #e86161;*/
+	margin: auto;
+	margin-top: 3px;
+	text-align: center;
+	font-family: MyHelvetica;
+	font-weight: bold;
+	color: #ffffff;
+	text-shadow: 2px 2px 20px black;
+}
+
+.nom-prenom a{
+	color: #000000;
+}
+
+.profession{
+	display: table;
+	/*background-color: #8deedd;*/
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 3px;
+	text-align: center;
+	font: 16px MyHelvetica;
+}
+
+.mini-fiche-eleve{
+	background-color: #ffffff;
+	width: 150px;
+	height: auto;
+	min-height: 220px;
+	overflow: hidden;
+}
+
+/*.texte-fiche-culture{
+	
+}*/
+
+.texte-fiche-culture p {
+	color: #ffffff;
+	font: 14px Arial, Helvetica, Geneva, sans-serif;
+}
+
+#image-fiche-culture{
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+
+
+
+.conteneur-fiches-culture{
+	display: block;
+	margin: auto;
+	margin-bottom: 20px;
+	width: 650px;
+	height: auto;
+	/*background-color: #5ccfee;*/
+}
+
+/*.numero-page{
+	background-color: #25bbc7;
+	height: 20px;
+	width: 600px;
+	position: relative;
+}*/
+
+.mini-fiche-eleve2{
+	background-color: #e82929;
+	width: 200px;
+	display: block;
+	margin-left: 50px;
+}
+
