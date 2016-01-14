@@ -6,7 +6,7 @@
 		    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 		<![endif]-->
 		<link href="style/style-emploi-du-temps.css" rel="stylesheet" media="all" type="text/css">
-        <link rel="icon" type="image/png" href="/Image/images-design/mafavicon-1.ico" />
+        <link rel="icon" type="image/png" href="/images-design/mafavicon-1.ico" />
 	</head>
 	
 <body>

@@ -7,8 +7,8 @@
 		    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 		<![endif]-->
 		<link href="style/style-l-ecole-theatrale-russe.css" rel="stylesheet" media="all" type="text/css">
-		<link rel="image_src" href="www.ecole-theatrale.fr/Image/images-design/logo-facebook.jpg">
-        <link rel="icon" type="image/png" href="/Image/images-design/mafavicon-1.ico" />
+		<link rel="image_src" href="www.ecole-theatrale.fr/images-design/logo-facebook.jpg">
+        <link rel="icon" type="image/png" href="/images-design/mafavicon-1.ico" />
         <!-- lien partage facebook -->
         <meta property="og:url" content="http://www.ecole-theatrale.fr/asso.php"/>
         <link rel="image_src" href="http://www.dlptheatre.net/images/icon/logo_dlptheatre2.gif"/>

@@ -14,8 +14,8 @@
 		<link href="style/style-form.css" rel="stylesheet" media="all" type="text/css">
 		<link href="style/style-nos-eleves.css" rel="stylesheet" media="all" type="text/css">
 		<link href="style/style-form.css" rel="stylesheet" media="all" type="text/css">
-		<link rel="icon" type="image/png" href="/Image/images-design/mafavicon-1.ico" />
-		<link rel="icon" type="image/png" href="/Image/images-design/mafavicon-1.ico" />
+		<link rel="icon" type="image/png" href="/images-design/mafavicon-1.ico" />
+		<link rel="icon" type="image/png" href="/images-design/mafavicon-1.ico" />
 	</head>
 	
 <body>
@@ -133,7 +133,7 @@
 			<section>
 				<span class="titre-ligne">Photo 1:</span>
 				<input type="file" name="myfile1">
-				<a href"supprimmer-infos?eid=<?php echo $eid;?>" onclick="return confirm('Voulez-vous vraiment suprimer cette photo?');"><img src="Image/images-design/suppr.png" alt"suppr"/></a>
+				<a href"supprimmer-infos?eid=<?php echo $eid;?>" onclick="return confirm('Voulez-vous vraiment suprimer cette photo?');"><img src="images-design/suppr.png" alt"suppr"/></a>
 			</section><br>
 
 			<section>
@@ -147,7 +147,7 @@
 			<section>
 				<span class="titre-ligne">Photo 2:</span>
 				<input type="file" name="myfile2">
-				<a href"supprimmer-infos1.php" onclick="return confirm('Voulez-vous vraiment suprimer cette photo?');"><img src="Image/images-design/suppr.png" alt"suppr"/></a>
+				<a href"supprimmer-infos1.php" onclick="return confirm('Voulez-vous vraiment suprimer cette photo?');"><img src="images-design/suppr.png" alt"suppr"/></a>
 			</section><br>
 			<?php
 			if(!$photo1!=''||$photo2!='')

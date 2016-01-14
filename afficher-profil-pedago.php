@@ -9,7 +9,7 @@
 		<link href="style/style-l-ecole-theatrale-russe.css" rel="stylesheet" media="all" type="text/css">
 		<link href="style/style-affiche-fiche.css" rel="stylesheet" media="all" type="text/css">
 		<link href="style/style-nos-eleves.css" rel="stylesheet" media="all" type="text/css">
-		<link rel="icon" type="image/png" href="/Image/images-design/mafavicon-1.ico" />
+		<link rel="icon" type="image/png" href="/images-design/mafavicon-1.ico" />
 
 		<link rel="image_src" href="<?php echo $photo; ?>">
 	</head>
@@ -137,7 +137,7 @@
 										<div class="case-video">
 											<a class="fancybox fancybox.iframe" href="<?php echo $video1;?>"">
 												<span class="roll-video"><p>Video1</p></span>
-												<img class="play" src="Image/images-design/play.png" alt="play" /><img src="Image/images-design/theatre-rideau.jpg" width="200px" height="130px" alt="video" />
+												<img class="play" src="images-design/play.png" alt="play" /><img src="images-design/theatre-rideau.jpg" width="200px" height="130px" alt="video" />
 											</a>
 										</div>
 									<?php
@@ -149,7 +149,7 @@
 										<div class="case-video">
 											<a class="fancybox fancybox.iframe" href="<?php echo $video2;?>"">
 												<span class="roll-video"><p>Video2</p></span>
-												<img class="play" src="Image/images-design/play.png" alt="play" /><img src="Image/images-design/theatre-rideau.jpg" width="200px" height="130px" alt="video" />
+												<img class="play" src="images-design/play.png" alt="play" /><img src="images-design/theatre-rideau.jpg" width="200px" height="130px" alt="video" />
 											</a>
 										</div>
 									

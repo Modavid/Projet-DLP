@@ -9,10 +9,10 @@
 <div class="bloc-reseaux-sociaux">
 	<a href="http://demainleprintemps.wordpress.com" target="_blank" title="Blog des élèves"><div id="case-blog" ><p>Blog</p></div></a>
 	<aside id="ligne-icons">
-			<a href="https://www.facebook.com/pages/Demain-le-Printemps-Lecole-Theatrale-Russe/106112662782349?fref=ts" target="_blank"><img src="/Image/images-design/icone-fbook.png" alt="Facebook" /></a>
-			<a href="https://twitter.com/dlptheatre" target="_blank"><img src="/Image/images-design/icone-twitter.png" alt="Twitter"/></a>
-			<a href="https://plus.google.com/111219345700075602953/posts" target="_blank"><img src="/Image/images-design/icone-google.png" alt="Google+"/></a>
-			<a href="https://www.youtube.com/channel/UC_1SSe8kg8TI5tCk3QUXQPQ?feature=watch" target="_blank"><img src="/Image/images-design/icone-youtube.png" alt="Youtube"/></a>
+			<a href="https://www.facebook.com/pages/Demain-le-Printemps-Lecole-Theatrale-Russe/106112662782349?fref=ts" target="_blank"><img src="/images-design/icone-fbook.png" alt="Facebook" /></a>
+			<a href="https://twitter.com/dlptheatre" target="_blank"><img src="/images-design/icone-twitter.png" alt="Twitter"/></a>
+			<a href="https://plus.google.com/111219345700075602953/posts" target="_blank"><img src="/images-design/icone-google.png" alt="Google+"/></a>
+			<a href="https://www.youtube.com/channel/UC_1SSe8kg8TI5tCk3QUXQPQ?feature=watch" target="_blank"><img src="/images-design/icone-youtube.png" alt="Youtube"/></a>
 		
 	</aside>
 </div>
@@ -22,7 +22,7 @@
 	<div class="petit-bloc">
 		<div class="conteneur-video">
 			<span class="roll"><div class="text-content">Découvrir toute notre actualité</div></span>
-			<img alt="image actualité" src="/Image/images-design/barre-image-actu.jpg">
+			<img alt="image actualité" src="/images-design/barre-image-actu.jpg">
 		</div>
 		<div class="sous-titres-barre"><p>L'actualité</p></div>
 	
@@ -33,7 +33,7 @@
 	<div class="petit-bloc">
 		<div class="conteneur-video">
 			<span class="roll"><div class="text-content">Nos anciens élèves</div></span>
-			<img alt="image actualité" src="/Image/images-design/image-demain-le-printemps-portrait.jpg">
+			<img alt="image actualité" src="/images-design/image-demain-le-printemps-portrait.jpg">
 		</div>
 		<div class="sous-titres-barre"><p>Nos anciens élèves</p></div>
 	</div>
@@ -56,7 +56,7 @@
 	<div class="petit-bloc">
 		<div class="conteneur-video">
 			<span class="roll"><div class="text-content">Comment nous soutenir ?</div></span>
-			<img alt="image actualité" src="/Image/images-design/image-demain-le-printemps-formation.jpg"/>
+			<img alt="image actualité" src="/images-design/image-demain-le-printemps-formation.jpg"/>
 		</div>
 		<div class="sous-titres-barre"><p>Nous soutenir</p></div>
 	</div>

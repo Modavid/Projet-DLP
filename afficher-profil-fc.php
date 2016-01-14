@@ -16,7 +16,7 @@
 		<script src="/lib/fancy-box/source/jquery.fancybox.pack.js" type="text/javascript">
 		</script>
 		<link rel="stylesheet" href="lib/fancy-box/source/rollover-effect.css" type="text/css" media="screen"/> 
-		<link rel="icon" type="image/png" href="/Image/images-design/mafavicon-1.ico" />
+		<link rel="icon" type="image/png" href="/images-design/mafavicon-1.ico" />
 		<link rel="image_src" href="<?php echo $photo; ?>">
 	</head>
 	
@@ -167,7 +167,7 @@ include('db_config.php');
 										<div class="case-video">
 											<a class="fancybox fancybox.iframe" href="<?php echo $video1;?>"">
 												<span class="roll-video"><p>Video1</p></span>
-												<img src="Image/images-design/play-video.gif" width="260px" height="140px" alt="video" />
+												<img src="images-design/play-video.gif" width="260px" height="140px" alt="video" />
 											</a>
 										</div></td>
 									<?php
@@ -180,7 +180,7 @@ include('db_config.php');
 										<div class="case-video">
 											<a class="fancybox fancybox.iframe" href="<?php echo $video2;?>"">
 												<span class="roll-video"><p>Video2</p></span>
-												<img src="Image/images-design/play-video.gif" width="260px" height="140px" alt="video" />
+												<img src="images-design/play-video.gif" width="260px" height="140px" alt="video" />
 											</a>
 										</div></td>
 									

@@ -18,7 +18,7 @@
         <meta property="og:type" content="website"/>
         <meta property="og:url" content="http://www.ecole-theatrale.fr/certificat.php"/>
        	<meta property="og:image" content="http://www.ecole-theatrale.fr/images-site/demain-le-printemps-attestation-2.jpg"/>
-		<link rel="icon" type="image/png" href="/Image/images-design/mafavicon-1.ico" />
+		<link rel="icon" type="image/png" href="/images-design/mafavicon-1.ico" />
 	</head>
 	
 <body>

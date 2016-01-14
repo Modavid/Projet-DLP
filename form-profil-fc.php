@@ -13,7 +13,7 @@
 		<link href="style/style-form.css" rel="stylesheet" media="all" type="text/css">
 		<link href="style/style-nos-eleves.css" rel="stylesheet" media="all" type="text/css">
 		<link href="style/style-form.css" rel="stylesheet" media="all" type="text/css">
-		<link rel="icon" type="image/png" href="/Image/images-design/mafavicon-1.ico" />
+		<link rel="icon" type="image/png" href="/images-design/mafavicon-1.ico" />
 	</head>
 	
 <body>
@@ -100,7 +100,7 @@
 			?>
 			
 			<tr><td style="padding-left: 50px;padding-top: 50px">
-			<a href="echanger-photo?eid=<?php echo $eid;?> photo=<?php echo $test;?>"><img src="Image/images-design/fleche-vers-droite-double-x-icone-7652-48.png" alt"ech"/></a>
+			<a href="echanger-photo?eid=<?php echo $eid;?> photo=<?php echo $test;?>"><img src="images-design/fleche-vers-droite-double-x-icone-7652-48.png" alt"ech"/></a>
 				<img type="photo" src="uploaded/<?php echo $type."s/".$photo ;?>" alt="photo-demain-le-primtemps"> </td></tr>
 			<?php } ?>
 		</table>
