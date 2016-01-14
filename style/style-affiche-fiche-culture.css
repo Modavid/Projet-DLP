@@ -15,7 +15,7 @@ body {
 	margin: auto;
 	width: 960px;
 	height: 100%;
-	background-image: url(../Image/images-design/Background-2.jpg);
+	background-image: url(../images-design/Background-2.jpg);
 	background-position:bottom;
 	background-attachment:fixed;
 	background-repeat:no-repeat;
@@ -35,7 +35,7 @@ body {
 	width:720px;
 	height: 1100px;
 	display: block;
-	background: url(../Image/images-design/fond-corps.png);
+	background: url(../images-design/fond-corps.png);
 	position: relative;
 	min-height: 850px;
 	border-radius: 4px;
@@ -47,7 +47,7 @@ body {
 	width:960px;
 	height: auto;
 	display: block;
-	background: url(../Image/images-design/fond-corps.png);
+	background: url(../images-design/fond-corps.png);
 	position: relative;
 	/*min-height: 850px;*/
 	border-radius: 4px;

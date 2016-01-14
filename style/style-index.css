@@ -14,7 +14,7 @@ body {
 	margin: auto;
 	width: 960px;
 	height: 100%;
-	background-image: url(../Image/images-design/Background-2.jpg);
+	background-image: url(../images-design/Background-2.jpg);
 	background-position:bottom;
 	background-attachment:fixed;
 	background-repeat:no-repeat;
@@ -26,7 +26,7 @@ body {
 	width:960px;
 	height: auto;
 	display: inline-block;
-	background-image: url(../Image/images-design/fond-corps.png);
+	background-image: url(../images-design/fond-corps.png);
 	border-radius: 4px;
 }
 
@@ -35,7 +35,7 @@ body {
 	
 	height: 250px;
 	width: 920 px;
-	background: url(../Image/images-design/caroussel.png);
+	background: url(../images-design/caroussel.png);
 	margin-top: 20px;
 	margin-right: 20px;
 	margin-left: 20px;
@@ -48,7 +48,7 @@ body {
 	display: inline-block;
 	width: 60px;
 	height: 90px;
-	background: url(../Image/images-design/ruban1.png);
+	background: url(../images-design/ruban1.png);
 	margin-left: 20px;
 	position: relative;
 	margin-top: -10px;
@@ -59,7 +59,7 @@ body {
 	display: inline-block;
 	width: 60px;
 	height: 90px;
-	background: url(../Image/images-design/ruban2.png);
+	background: url(../images-design/ruban2.png);
 	margin-left: 20px;
 	position: relative;
 	
