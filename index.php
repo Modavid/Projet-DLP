@@ -27,7 +27,7 @@
 		<link rel="stylesheet" href="lib/fancy-box/source/rollover-effect.css" type="text/css" media="screen"/>
 		
 		<link href="style/style-index.css" rel="stylesheet" media="all" type="text/css">
-		<link rel="icon" type="image/png" href="/Image/images-design/mafavicon-1.ico" />
+		<link rel="icon" type="image/png" href="/images-design/mafavicon-1.ico" />
 	</head>
 <body>
 	<div id="fb-root"></div>
@@ -57,11 +57,11 @@
 	
 	<!-- Section Réseaux sociaux-->
 	<section id="reseaux-soc">
-		<aside class="image-reseaux-soc"><a href="https://www.facebook.com/pages/Demain-le-Printemps-Lecole-Theatrale-Russe/106112662782349?fref=ts" target="_blank"><img src="/Image/images-design/icone-fbook.png" alt="Facebook" title="facebook"/></a></aside>
-		<aside class="image-reseaux-soc"><a href="https://twitter.com/dlptheatre" target="_blank"><img src="/Image/images-design/icone-twitter.png" alt="Twitter" title="twitter"/></a></aside>
-		<aside class="image-reseaux-soc"><a href="https://plus.google.com/111219345700075602953/posts" target="_blank"><img src="/Image/images-design/icone-google.png" alt="Google+"title="Google+"/></a></aside>
-		<aside class="image-reseaux-soc"><a href="https://www.youtube.com/v/UTHgPqzAG40?feature=watch" target="_blank"><img src="/Image/images-design/icone-youtube.png" alt="Youtube"title="Youtube"/></a></aside>
-		<aside class="image-reseaux-soc"><a href="http://demainleprintemps.wordpress.com/" target="_blank"><img src="/Image/images-design/icone-blogger.png" alt="Blogger"title="Blogger"/></a></aside>
+		<aside class="image-reseaux-soc"><a href="https://www.facebook.com/pages/Demain-le-Printemps-Lecole-Theatrale-Russe/106112662782349?fref=ts" target="_blank"><img src="/images-design/icone-fbook.png" alt="Facebook" title="facebook"/></a></aside>
+		<aside class="image-reseaux-soc"><a href="https://twitter.com/dlptheatre" target="_blank"><img src="/images-design/icone-twitter.png" alt="Twitter" title="twitter"/></a></aside>
+		<aside class="image-reseaux-soc"><a href="https://plus.google.com/111219345700075602953/posts" target="_blank"><img src="/images-design/icone-google.png" alt="Google+"title="Google+"/></a></aside>
+		<aside class="image-reseaux-soc"><a href="https://www.youtube.com/v/UTHgPqzAG40?feature=watch" target="_blank"><img src="/images-design/icone-youtube.png" alt="Youtube"title="Youtube"/></a></aside>
+		<aside class="image-reseaux-soc"><a href="http://demainleprintemps.wordpress.com/" target="_blank"><img src="/images-design/icone-blogger.png" alt="Blogger"title="Blogger"/></a></aside>
 		
 	</section>
 	
@@ -132,7 +132,7 @@
 					<aside class="photo-bloc-milieu">
 						<a href="/pdf/Plaquette-d'adhésion-DLP.pdf" target="_blank">
 						<span class="mini-roll"><div class="text-content-mini">Comment </br> nous soutenir ?</div></span>
-						<img class="image-mini-barre" src="/Image/images-design/image-demain-le-printemps-formation-small.jpg"/>
+						<img class="image-mini-barre" src="/images-design/image-demain-le-printemps-formation-small.jpg"/>
 						<aside class="titre-mini-barre"><p>Nous soutenir</p></aside>
 						</a>
 					</aside>
