@@ -106,7 +106,7 @@ SELECT{
 	
 }
 .arrondi {
-background:url(images-design/suppr.png);
+background:url(../Image/images-design/suppr.png);
 border:none;
 width: 80px; /* largeur à spécifier */
 height: 40px; /* longueur à spécifier */

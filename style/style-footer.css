@@ -32,7 +32,7 @@
 	position: relative;
 	margin-top: -15px;
 	margin-bottom: -30px;
-	background: url(../images-design/bandeau-10ans.png);
+	background: url(../Image/images-design/bandeau-10ans.png);
 	
 }
 
@@ -42,7 +42,7 @@
 	width: 960px;
 	height:217px;
 	margin: auto;
-	background-image: url(../images-design/bandeau.png);
+	background-image: url(../Image/images-design/bandeau.png);
 	font: 100% Arial;
 	position: relative;
 	/*background-color: #3de466;*/
@@ -112,7 +112,7 @@
 	height: 30px;
 	position: absolute;
 	margin-top: 5px;
-	/*background: url(../images-design/pin-geolocalisation.png);*/
+	/*background: url(../Image/images-design/pin-geolocalisation.png);*/
 }
 
 #contact p{

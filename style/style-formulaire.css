@@ -14,7 +14,7 @@ body {
 	margin: auto;
 	width: 960px;
 	height: 100%;
-		background-image: url(../images-design/Background-2.jpg);
+		background-image: url(../Image/images-design/Background-2.jpg);
 	background-position:bottom;
 	background-attachment:fixed;
 	background-repeat:no-repeat;
@@ -27,7 +27,7 @@ body {
 	margin:0 auto;
 	height: auto;
 	display: inline-block;
-	/*background: url(../images-design/fond-corps.png);*/
+	/*background: url(../Image/images-design/fond-corps.png);*/
 	position: relative;
 	/*min-height: 100%;*/
 	
@@ -45,7 +45,7 @@ body {
 	display: block;
 	width: 470px;
 	height:auto;
-	background: url(../images-design/bandeau.png);
+	background: url(../Image/images-design/bandeau.png);
 	margin-top: 55px;
 	/*position: relative;*/
 	border-radius: 4px;
@@ -62,7 +62,7 @@ body {
 	height:470px;
 	margin-top: 55px;
 	position: relative;
-	background: url(../images-design/bandeau.png);
+	background: url(../Image/images-design/bandeau.png);
 	border-radius: 4px;
 	
 	
@@ -169,7 +169,7 @@ input[type=text]{
 	display:block;
 	-webkit-text-security: circle;
 	color: #615e71;
-	background: url(../images-design/icon-password.png) -0px -0px no-repeat #ffffff;
+	background: url(../Image/images-design/icon-password.png) -0px -0px no-repeat #ffffff;
 	
 	
 }
@@ -239,7 +239,7 @@ a{
 
 
 #champs-login{
-	background: url(../images-design/icon-login.jpg) /*-0px -0px*/ no-repeat #ffffff;
+	background: url(../Image/images-design/icon-login.jpg) /*-0px -0px*/ no-repeat #ffffff;
 }
 
 
