@@ -9,7 +9,7 @@
 		<link href="style/style-form.css" rel="stylesheet" media="all" type="text/css">
 		
 		<script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.10.2.js"></script>
-		<link rel="icon" type="image/png" href="/images-design/mafavicon-1.ico" />
+		<link rel="icon" type="image/png" href="/Image/images-design/mafavicon-1.ico" />
 	</head>
 	
 <body>
@@ -28,12 +28,12 @@
 			<section class="conteneur-superieur">	
 			<nav>
              <ul>
-			 <li><a href="form-creer-compte-etud.php"><img src="/images-design/ruban-actuel-etudiant.png"></a>  
-             <li><a href="form-creer-compte-etud.php"><img src="/images-design/ruban-ancien-etudiant.png"></a>    
-             <li><a href="creer-compte-candidat.php"><img src="/images-design/ruban-Candidat.png"></a>    
-             <li><a href="creer-compte-fan.php"><img src="/images-design/ruban-fan-du-projet.png"></a>    
-             <li><a href="form-creer-compte-membre.php"><img src="/images-design/ruban-membre-de-lequipe.png"></a> 
-			 <li><a href="form-creer-compte-stagiaire.php"><img src="/images-design/ruban-stagiaire-bureau-dlp.png"></a>
+			 <li><a href="form-creer-compte-etud.php"><img src="/Image/images-design/ruban-actuel-etudiant.png"></a>  
+             <li><a href="form-creer-compte-etud.php"><img src="/Image/images-design/ruban-ancien-etudiant.png"></a>    
+             <li><a href="creer-compte-candidat.php"><img src="/Image/images-design/ruban-Candidat.png"></a>    
+             <li><a href="creer-compte-fan.php"><img src="/Image/images-design/ruban-fan-du-projet.png"></a>    
+             <li><a href="form-creer-compte-membre.php"><img src="/Image/images-design/ruban-membre-de-lequipe.png"></a> 
+			 <li><a href="form-creer-compte-stagiaire.php"><img src="/Image/images-design/ruban-stagiaire-bureau-dlp.png"></a>
             </ul>
 			</nav>
 			</section>

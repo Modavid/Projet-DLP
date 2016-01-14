@@ -7,7 +7,7 @@
 		<![endif]-->
 		<link href="style/style-formulaire.css" rel="stylesheet" media="all" type="text/css">
 		<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-		<link rel="icon" type="image/png" href="/images-design/mafavicon-1.ico" />
+		<link rel="icon" type="image/png" href="/Image/images-design/mafavicon-1.ico" />
 	</head>
 	
 <body>
@@ -17,8 +17,8 @@
 <section class="conteneur">
 		<section id="block-inscription">
 		<div id="block-connexion">
-			<aside id="trait-gauche"><img src="images-design/trait-gauche.png"/></aside>
-			<aside id="trait-droit"><img src="images-design/trait-droit.png"/></aside>
+			<aside id="trait-gauche"><img src="Image/images-design/trait-gauche.png"/></aside>
+			<aside id="trait-droit"><img src="Image/images-design/trait-droit.png"/></aside>
 			<article id="titre">Créer un compte</article>
 		</div>
 		

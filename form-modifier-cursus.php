@@ -13,7 +13,7 @@
 		<link href="style/style-form.css" rel="stylesheet" media="all" type="text/css">
 		<link href="style/style-nos-eleves.css" rel="stylesheet" media="all" type="text/css">
 		<link href="style/style-form.css" rel="stylesheet" media="all" type="text/css">
-		<link rel="icon" type="image/png" href="/images-design/mafavicon-1.ico" />
+		<link rel="icon" type="image/png" href="/Image/images-design/mafavicon-1.ico" />
 	</head>
 	
 <body>

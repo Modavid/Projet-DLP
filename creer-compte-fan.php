@@ -8,7 +8,7 @@
         <![endif]-->
         <link href="style/style-l-ecole-theatrale-russe.css" rel="stylesheet" media="all" type="text/css">
         <link href="style/style-form.css" rel="stylesheet" media="all" type="text/css">
-        <link rel="icon" type="image/png" href="/images-design/mafavicon-1.ico" />
+        <link rel="icon" type="image/png" href="/Image/images-design/mafavicon-1.ico" />
         <script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.10.2.js"></script>
 
     </head>
@@ -27,7 +27,7 @@
                    <p style="margin-left:80px; "> <b>Merci de télécharger une photo de moins de 500 Ko soit 0,5 Méga octet. La photo est obligatoire pour créer votre compte.</b></p><br>
                    </div>    
                    			   
-					<img src="/images-design/ruban-fan-du-projet.png">                     
+					<img src="/Image/images-design/ruban-fan-du-projet.png">                     
 					  </div>
 					   
                 <div class="conteneur-formulaire">

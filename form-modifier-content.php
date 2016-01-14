@@ -9,7 +9,7 @@
         <link href="style/style-form.css" rel="stylesheet" media="all" type="text/css">
 
         <script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.10.2.js"></script>
-        <link rel="icon" type="image/png" href="/images-design/mafavicon-1.ico" />
+        <link rel="icon" type="image/png" href="/Image/images-design/mafavicon-1.ico" />
     </head>
 
     <body>
@@ -121,7 +121,7 @@
                                         <section>
                                             <span class="titre-ligne"><?php echo $contents[$i] ?></span>
                                             <input type="file" name="<?php echo $contents[$i] ?>" >
-                                            <a href="supprimer-img.php?cpid=<?php echo $cpid;?>&img=<?php echo $contents[$i] ?>" onclick="return confirm('Voulez-vous vraiment supprimer cette photo?');"><img src="images-design/suppr.png" alt"suppr"/></a>
+                                            <a href="supprimer-img.php?cpid=<?php echo $cpid;?>&img=<?php echo $contents[$i] ?>" onclick="return confirm('Voulez-vous vraiment supprimer cette photo?');"><img src="Image/images-design/suppr.png" alt"suppr"/></a>
                                         </section><br>
                                         <?php
                                         $cpt = 0;

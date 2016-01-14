@@ -10,7 +10,7 @@
         <link href="style/style-form.css" rel="stylesheet" media="all" type="text/css">
 
         <script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.10.2.js"></script>
-        <link rel="icon" type="image/png" href="/images-design/mafavicon-1.ico" />
+        <link rel="icon" type="image/png" href="/Image/images-design/mafavicon-1.ico" />
     </head>
 
     <body>
@@ -28,7 +28,7 @@
                    <p style="margin-left:80px; "> <b>Merci de télécharger une photo de moins de 500 Ko soit 0,5 Méga octet. La photo est obligatoire pour créer votre compte.</b></p><br>
                    </div>    
                    			   
-					<img src="/images-design/ruban-Candidat.png">                     
+					<img src="/Image/images-design/ruban-Candidat.png">                     
 					  </div>
 					   
                 <div class="conteneur-formulaire">

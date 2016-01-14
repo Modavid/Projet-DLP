@@ -99,7 +99,7 @@
 			?>
 			
 			<tr><td style="padding-left: 50px;padding-top: 50px">
-			<a href="echanger-photo?eid=<?php echo $eid;?> photo=<?php echo $test;?>"><img src="images-design/fleche-vers-droite-double-x-icone-7652-48.png" alt"ech"/></a>
+			<a href="echanger-photo?eid=<?php echo $eid;?> photo=<?php echo $test;?>"><img src="Image/images-design/fleche-vers-droite-double-x-icone-7652-48.png" alt"ech"/></a>
 				<img type="photo" src="uploaded/<?php echo $ph ;?>" alt="photo-demain-le-primtemps"> </td></tr>
 			<?php } ?>
 		</table>
@@ -155,7 +155,7 @@
 					?>
 						<td style="padding-left: 15px">
 							<img type="photo" src="/uploaded/<?php echo $photo1 ;?>" alt="photo1">
-                                                        <a href="supprimer-photo-eleve.php?eid=<?php echo $eid;?>&photo=<?php echo $photo1;?>&type=photo1" onclick="return confirm('Voulez-vous vraiment supprimer cette photo?');"><img src="images-design/suppr.png" alt"suppr"/></a>
+                                                        <a href="supprimer-photo-eleve.php?eid=<?php echo $eid;?>&photo=<?php echo $photo1;?>&type=photo1" onclick="return confirm('Voulez-vous vraiment supprimer cette photo?');"><img src="Image/images-design/suppr.png" alt"suppr"/></a>
 						</td>
 				
 						
@@ -172,7 +172,7 @@
 					
 						<td style="padding-left: 15px">
 							<img type="photo" src="/uploaded/<?php echo $photo2 ;?>" alt="photo2">
-                                                        <a href="supprimer-photo-eleve.php?eid=<?php echo $eid;?>&photo=<?php echo $photo2;?>&type=photo2" onclick="return confirm('Voulez-vous vraiment supprimer cette photo?');"><img src="images-design/suppr.png" alt"suppr"/></a>
+                                                        <a href="supprimer-photo-eleve.php?eid=<?php echo $eid;?>&photo=<?php echo $photo2;?>&type=photo2" onclick="return confirm('Voulez-vous vraiment supprimer cette photo?');"><img src="Image/images-design/suppr.png" alt"suppr"/></a>
 						</td>
 					<?php
 				}

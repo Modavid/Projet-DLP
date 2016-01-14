@@ -8,7 +8,7 @@
 		<link href="style/style-l-ecole-theatrale-russe.css" rel="stylesheet" media="all" type="text/css">
 		
 		<script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.10.2.js"></script>
-		<link rel="icon" type="image/png" href="/images-design/mafavicon-1.ico" />
+		<link rel="icon" type="image/png" href="/Image/images-design/mafavicon-1.ico" />
 	</head>
 	
 <body>

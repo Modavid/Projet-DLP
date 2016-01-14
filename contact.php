@@ -7,7 +7,7 @@
 		    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 		<![endif]-->
 		<link href="style/style-l-ecole-theatrale-russe.css" rel="stylesheet" media="all" type="text/css">
-		<link rel="icon" type="image/png" href="/images-design/mafavicon-1.ico" />
+		<link rel="icon" type="image/png" href="/Image/images-design/mafavicon-1.ico" />
 	</head>
 	
 <body>
@@ -48,7 +48,7 @@
 			<div class="plan2">
 				<div class="titre">Plan d'accès</div>
 					<div id="carte-google">
-						<a class="carte-fancybox carte-fancybox.iframe" href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2623.8871281414545!2d2.344497440475468!3d48.87942823060259!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x11282a52ae19250c!2sDemain+Le+Printemps!5e0!3m2!1sfr!2sfr!4v1400489555143"><img src="images-design/carte-google.jpg" alt="carte"/></a>
+						<a class="carte-fancybox carte-fancybox.iframe" href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2623.8871281414545!2d2.344497440475468!3d48.87942823060259!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x11282a52ae19250c!2sDemain+Le+Printemps!5e0!3m2!1sfr!2sfr!4v1400489555143"><img src="Image/images-design/carte-google.jpg" alt="carte"/></a>
 					</div>
 			</div>
 			
@@ -67,7 +67,7 @@
 				<div class="plan2">
 					<div class="titre">Plan d'accès</div>
 						<div id="carte-google">
-							<a class="carte-fancybox carte-fancybox.iframe" href="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2351.7350609105133!2d27.585365599999996!3d53.883137899999994!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dbce2c407eabed%3A0x2c363a84e61a1e60!2sPartyzanski+praspiekt+6%D0%94%2C+Minsk+220033%2C+Bi%C3%A9lorussie!5e0!3m2!1sfr!2sfr!4v1428685272285"><img src="images-design/carte-google-minsk.jpg" alt="carte"/></a>
+							<a class="carte-fancybox carte-fancybox.iframe" href="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2351.7350609105133!2d27.585365599999996!3d53.883137899999994!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dbce2c407eabed%3A0x2c363a84e61a1e60!2sPartyzanski+praspiekt+6%D0%94%2C+Minsk+220033%2C+Bi%C3%A9lorussie!5e0!3m2!1sfr!2sfr!4v1428685272285"><img src="Image/images-design/carte-google-minsk.jpg" alt="carte"/></a>
 						</div>
 				</div>
 				

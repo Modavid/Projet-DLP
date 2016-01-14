@@ -7,7 +7,7 @@
 		<![endif]-->
 		<link href="style/style-formulaire.css" rel="stylesheet" media="all" type="text/css">
 		<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-		<link rel="icon" type="image/png" href="/images-design/mafavicon-1.ico" />
+		<link rel="icon" type="image/png" href="/Image/images-design/mafavicon-1.ico" />
 	</head>
 	
 <body>
@@ -17,8 +17,8 @@
 <section class="conteneur">
 	<section class="block-formulaire">
 		<div id="block-connexion">
-			<aside id="trait-gauche"><img src="images-design/trait-gauche.png"/></aside>
-			<aside id="trait-droit"><img src="images-design/trait-droit.png"/></aside>
+			<aside id="trait-gauche"><img src="Image/images-design/trait-gauche.png"/></aside>
+			<aside id="trait-droit"><img src="Image/images-design/trait-droit.png"/></aside>
 			<article id="titre">Connexion</article>
 		</div>
 			
@@ -40,8 +40,8 @@
 			
 			<div id="block-ou">
 			
-				<aside id="trait-gauche2"><img src="images-design/trait-gauche.png"/></aside>
-				<aside id="trait-droit2"><img src="images-design/trait-droit.png"/></aside>
+				<aside id="trait-gauche2"><img src="Image/images-design/trait-gauche.png"/></aside>
+				<aside id="trait-droit2"><img src="Image/images-design/trait-droit.png"/></aside>
 				<article id="titre2">ou</article>
 				
 			</div>
